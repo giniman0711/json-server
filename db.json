@@ -1,0 +1,163 @@
+{
+  "migrations": [
+    {
+      "id": 82,
+      "division": "Retailer/PC",
+      "region": "Germany/DE",
+      "creation_date": "20.06.2022",
+      "report_date": "20.06.2022",
+      "type": "Manual",
+      "status": "planned"
+    },
+    {
+      "id": 42,
+      "division": "Sales/VAN",
+      "region": "Europe/NL",
+      "creation_date": "17.06.2022",
+      "report_date": "None",
+      "type": "Automatic",
+      "status": "planned"
+    },
+    {
+      "id": 38,
+      "division": "Retailer/VAN",
+      "region": "ALL",
+      "creation_date": "08.06.2022",
+      "report_date": "09.06.2022",
+      "type": "Automatic",
+      "status": "planned"
+    },
+    {
+      "id": 5,
+      "division": "Retailer/PC",
+      "region": "Germany/DE",
+      "creation_date": "07.12.2021",
+      "report_date": "None",
+      "type": "Manual",
+      "status": "finished"
+    },
+    {
+      "division": "Retailer/VAN",
+      "region": "Europe/NL",
+      "creation_date": "02.08.2022",
+      "report_date": "02.08.2022",
+      "type": "Automatic",
+      "status": "planned",
+      "id": 83
+    }
+  ],
+  "outlets": [
+    {
+      "id": 6,
+      "name": "Outlet name 6",
+      "address": {
+        "city": "Etobicoke",
+        "street": "1667 Elizabeth Boulevard"
+      },
+      "country": "Europe/NL",
+      "services": [
+        "7 MB PC"
+      ],
+      "mbc": "...",
+      "active": true,
+      "customers": [
+        555
+      ],
+      "isBlocked": false
+    },
+    {
+      "id": 12,
+      "name": "Outlet name 12",
+      "address": {
+        "city": "Wilson",
+        "street": "Po Box 817"
+      },
+      "country": "Europe/Nl",
+      "services": [
+        "26 MB PC"
+      ],
+      "mbc": "...",
+      "active": true,
+      "customers": [
+        232
+      ],
+      "isBlocked": false
+    },
+    {
+      "id": 1,
+      "name": "Outlet name 1",
+      "address": {
+        "city": "Via Santa",
+        "street": "Teresa 69"
+      },
+      "country": "Europe/NL",
+      "services": [
+        "7 MB PC"
+      ],
+      "mbc": "",
+      "active": true,
+      "customers": [
+        112
+      ],
+      "isBlocked": false
+    },
+    {
+      "id": 32,
+      "name": "Outlet name 32",
+      "address": {
+        "city": "Berlin",
+        "street": "Franz-Markus-Straße 22"
+      },
+      "country": "Germany/DE",
+      "services": [
+        "128 MB PC"
+      ],
+      "mbc": "...",
+      "active": true,
+      "customers": [
+        56,
+        44
+      ],
+      "isBlocked": false
+    },
+    {
+      "id": 19,
+      "name": "Outlet name 19",
+      "address": {
+        "city": "Berlin",
+        "street": "Franz-Markus-Straße 22"
+      },
+      "country": "Germany/DE",
+      "services": [
+        "128 MB PC"
+      ],
+      "mbc": "...",
+      "active": true,
+      "customers": [
+        56,
+        44
+      ],
+      "isBlocked": false
+    }
+  ],
+  "customers": [
+    {
+      "id": 555
+    },
+    {
+      "id": 232
+    },
+    {
+      "id": 112
+    },
+    {
+      "id": 56
+    },
+    {
+      "id": 44
+    },
+    {
+      "id": 1
+    }
+  ]
+}
