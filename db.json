@@ -81,7 +81,7 @@
       "customers": [
         232
       ],
-      "isBlocked": false
+      "isBlocked": true
     },
     {
       "id": 1,
@@ -137,7 +137,7 @@
         56,
         44
       ],
-      "isBlocked": false
+      "isBlocked": true
     }
   ],
   "customers": [
